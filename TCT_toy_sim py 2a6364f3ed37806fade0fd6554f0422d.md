@@ -154,11 +154,3 @@ print('Normalized mean ℧:', np.round(ups_norm,4))
 print('Baseline:', base, ' Scale:', scale)
 
 # End of script
-
-![1000128683.png](TCT_toy_sim%20py/1000128683.png)
-
-![1000128684.png](TCT_toy_sim%20py/1000128684.png)
-
-![1000128685.png](TCT_toy_sim%20py/1000128685.png)
-
-![1000128682.png](TCT_toy_sim%20py/1000128682.png)
