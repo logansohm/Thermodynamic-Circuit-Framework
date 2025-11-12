@@ -1,0 +1,5 @@
+time_min,℧_bits_m3_s,state
+10.0,1.42e+16,awake
+40.0,3.55e+13,LOC
+60.0,2.10e+13,unconscious
+100.0,1.13e+16,ROC
